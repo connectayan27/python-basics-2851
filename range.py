@@ -1,4 +1,4 @@
-n = 10
+n = 100
 a, b = 0, 1
 
 for i in range(n):
@@ -15,7 +15,7 @@ class Student:
         self.marks = marks
 
 # Create a Student object
-s1 = Student("Rahul", 101, 87.5)
+s1 = Student("Rahul", 100, 87.5)
 
 # Print details
 print("Name:", s1.name)
